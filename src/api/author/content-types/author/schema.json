@@ -21,14 +21,13 @@
       "required": false,
       "allowedTypes": [
         "images",
-        "files",
-        "videos"
+        "files"
       ]
     },
     "email": {
       "type": "string"
     },
-    "twitter": {
+    "bio": {
       "type": "string"
     },
     "articles": {
