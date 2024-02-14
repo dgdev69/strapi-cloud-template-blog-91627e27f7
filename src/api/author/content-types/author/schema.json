@@ -27,7 +27,10 @@
     "email": {
       "type": "string"
     },
-    "bio": {
+    "shortbio": {
+      "type": "string"
+    },
+    "longbio": {
       "type": "string"
     },
     "articles": {
